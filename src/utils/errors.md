@@ -56,3 +56,7 @@ Missing document `<head>`
 ## 10
 
 Cannot find sheet for given tag
+
+## 11
+
+Additional arguments: [object Object] at new StyledComponentsError
